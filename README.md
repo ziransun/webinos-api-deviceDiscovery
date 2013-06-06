@@ -1,2 +1,3 @@
-webinos-api-deviceDiscovery
-===========================
+# webinos-api-deviceDiscovery
+
+API interface for device discovery
